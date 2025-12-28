@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "d8f7",
+      "username": "jdoe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "b3c1",
+      "username": "asmith",
+      "firstName": "Anna",
+      "lastName": "Smith",
+      "email": "anna.smith@example.com"
+    },
+    {
+      "id": "5ae2",
+      "username": "bjohnson",
+      "firstName": "Ben",
+      "lastName": "Johnson",
+      "email": "ben.johnson@example.com"
+    },
+    {
+      "id": "1aac",
+      "username": "cmartinez",
+      "firstName": "Carlos",
+      "lastName": "Martinez",
+      "email": "carlos.martinez@example.com"
+    },
+    {
+      "id": "9502",
+      "username": "lwilson",
+      "firstName": "Lily",
+      "lastName": "Wilson",
+      "email": "lily.wilson@example.com"
+    },
+    {
+      "id": "cbe2",
+      "username": "nkhan",
+      "firstName": "Noor",
+      "lastName": "Khan",
+      "email": "noor.khan@example.com"
+    }
+  ]
+}
